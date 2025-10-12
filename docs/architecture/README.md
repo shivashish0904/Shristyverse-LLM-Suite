@@ -34,9 +34,8 @@ Promotion between rings requires passing the `Shristyverse Bench` evaluation sui
 
 ## 5. Next Steps
 
-- Stand up the shared observability library under `platform/observability/`.
-- Publish the Shristyverse Bench harness alongside standardized datasets.
+- Stand up the shared observability library under `platform/observability/` and populate `docs/observability/` with runbooks.
+- Publish the Shristyverse Bench harness alongside standardized datasets and adopt the `docs/evaluation/templates/bench_report.md` for evidence.
 - Automate MCP adapter testing through GitHub Actions (workflow spec under review).
 
 For roadmap updates or architectural decisions, submit a proposal PR targeting this document. Reach out to architecture@shristyverse.com for clarifications.
-
