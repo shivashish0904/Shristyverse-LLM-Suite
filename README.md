@@ -8,6 +8,7 @@ Welcome to the official collection of Large Language Model applications curated 
 - **Retrieval Augmented Generation** – reference implementations for memory-backed assistants across different modalities.
 - **Voice & Multimodal Interfaces** – explorations into speech, audio, and hybrid user experiences.
 - **Learning Tracks** – tutorials and crash courses that we use internally to onboard engineers and researchers.
+- **Operations Tooling** – observability, evaluation, and governance assets curated for production readiness.
 
 All content is authored, assembled, or verified by the Shristyverse team. Examples in this repository assume familiarity with modern Python tooling, container workflows, and standard data-engineering practices.
 
